@@ -1,6 +1,7 @@
 # Password_Generator
 Simple password generator with python and graphical user interface: Customtkinter
 
-It provides a simple and intuitive interface for user interaction
+It provides a simple and intuitive interface for user interaction, later on this project will move to go. 
+
 
 Its built using python
